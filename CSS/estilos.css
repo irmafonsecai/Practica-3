@@ -1,0 +1,20 @@
+.contenedor a{ /* selector combinado */
+    text-decoration: none; /* elemina el subrayado de la ligas */
+    color:chartreuse; /* cambia el color de la fuente */
+    font-size: 20px; /* cambia el tamaño de la fuente */
+    font-weight: bold; /* pone negrita a la letra */
+}
+h2 {
+    color: goldenrod; /* cambia el color de la fuente */
+}
+p {
+    font-size: 18px; /* cambia el tamaño de la fuente */
+    color: indigo; /* cambia el color de la fuente */
+}
+.contenedor2 p{
+    color: chocolate; /* cambia el color de la fuente */
+}
+.contenedor2 a{
+    color: darkorchid; /* cambia el color de la fuente */
+    text-decoration: none; /* elemina el subrayado de la ligas */
+}
